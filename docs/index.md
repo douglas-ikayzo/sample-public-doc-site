@@ -1,3 +1,3 @@
-# Sample Public Docs Site Using GitHub Pages
+# Home
 
 This is the index page.
