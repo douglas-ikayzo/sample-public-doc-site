@@ -1,2 +1,2 @@
-# sample-public-doc-site
-Sample public doc site
+# sample-public-docs-site
+Sample public docs site
